@@ -1,1 +1,3 @@
 # NextGen internship
+
+updating readme
